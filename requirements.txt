@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+google-generativeai
+grpcio<1.64.0
+python-dotenv
+pydantic
+jinja2
+twilio
+requests
+python-multipart
